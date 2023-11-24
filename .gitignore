@@ -161,3 +161,6 @@ cython_debug/
 
 # Add .DS_Store since macOS is used
 .DS_Store
+
+# Add .vscode since VSCode is used
+.vscode/
